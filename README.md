@@ -15,7 +15,7 @@ In the jupyter notebook file, the following operations were carried out:
 - Model Selection
 
 
-The following graphs emerge from the code in the repository. :
+The following graphs emerge from the code in the repository:
 
 ![image](https://user-images.githubusercontent.com/65466700/188914340-36dd684f-1f81-4f09-aeae-07f984315aca.png) 
 
