@@ -23,6 +23,7 @@ The following graphs emerge from the code in the repository:
 
 ![image](https://user-images.githubusercontent.com/65466700/188914476-83a1c069-e5bb-43f9-a130-0151d3cf4461.png)
 
-Missing values![image](https://user-images.githubusercontent.com/65466700/188914622-1aa0eb98-9647-4380-b77b-294b50bc0498.png)
+Missing values: ![image](https://user-images.githubusercontent.com/65466700/188914622-1aa0eb98-9647-4380-b77b-294b50bc0498.png)
 
 ![image](https://user-images.githubusercontent.com/65466700/188914758-4f6abd32-135b-4145-b3b2-6086f7636576.png)
+
